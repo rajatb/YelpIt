@@ -49,8 +49,11 @@ Project uses Rotten Tomatoes Api to pull information about latest dvd and movies
 LICENSE to the repository: 
 
 Open-Source libraries used:
-  1. AFNetworking
-  2. SVProgressHUD
+1. AFNetworking
+2. BDBOAuth1Manager
+3. Mantle
+4. SVProgressHUD
+
 
 Gif Image
 
