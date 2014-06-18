@@ -17,14 +17,17 @@ Optional:
 - [ ] Infinite scroll for restaurant results
 - [x] Implement map view of restaurant results [Note: API does not provide with long/lat of a perticular buisness]. Configured a map view to show with the center long/lat and span provided by the api.
 
+Filter Page:
+Required: 
+- [x] The filters you should actually have are: category, sort (best match, distance, highest rated), radius (meters), deals (on/off).
+- [x] The filters table should be organized into sections as in the mock.
+- [x] You can use the default UISwitch for on/off states. Optional: implement a custom switch
+- [x] Radius filter should expand as in the real Yelp app
+- [x] Categories should show a subset of the full list with a "See All" row to expand.
+- [x] Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
 
-- [x] Optional: All images fade in 
-- [x] Optional: For the large poster, load the low-res image first, switch to high-res when complete
-- [x] Optional: All images should be cached in memory and disk.
-- [x] Optional: Customize the highlight and selection effect of the cell.
-- [x] Optional: Customize the navigation bar.
-- [x] Optional: Add a tab bar for Box Office and DVD.
-- [x] Optional: Add a search bar.
+Detail View Optional: 
+- [x] Implement the restaurant detail page. [Note: Created a very basic detail page, with name, review snipped and phone #]
 
 
 References Used: 
