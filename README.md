@@ -45,6 +45,7 @@ References Used:
 
 
 A description of the project:
+
 Project uses Yelp Api to pull data from search API async. It uses autolayout, the row height gets resized automatically. Used some table View tricks in the filter view. 
 
 Issue: 
@@ -53,6 +54,7 @@ API does not provide with long/lat of the resturants for mapping. But gives the 
 LICENSE to the repository: 
 
 Open-Source libraries used:
+
 1. AFNetworking
 2. BDBOAuth1Manager
 3. Mantle
@@ -62,6 +64,8 @@ Open-Source libraries used:
 Gif Image
 
 
-![Alt Text](RottenTomatoesDemo.gif)
+![Alt Text](Yelp.gif)
+
+![Alt Text](Yelp-AutoLayout.gif)
 
 YelpIt  Due: June 17. 2014 10pm
