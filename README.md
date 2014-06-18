@@ -38,13 +38,17 @@ References Used:
   3. Add Search Bar :  http://stackoverflow.com/questions/5095477/uisearchbar-in-navigationbar
   4. Auto cell Resizing (Very Helpful): http://blog.jldagon.me/blog/2013/12/07/auto-layout-and-uitableview-cells/
   5. Boolean Predicate: http://stackoverflow.com/questions/3670018/core-data-nspredicate-checking-for-bool-value
-  6. Caching: http://blog.originate.com/blog/2014/02/20/afimagecache-vs-nsurlcache/
-  7. Scroll View: Create a scroll view bigger than the screen dimension, autolayout false.
+  6. Initliazers: https://developer.apple.com/library/ios/documentation/general/conceptual/CocoaEncyclopedia/Initialization/Initialization.html
+  7. Array to String: http://stackoverflow.com/questions/12199619/construct-nsstring-from-the-description-method-of-each-nsarray-item
   8. Array to String: http://stackoverflow.com/questions/12199619/construct-nsstring-from-the-description-method-of-each-nsarray-item
+  
 
 
 A description of the project:
-Project uses Rotten Tomatoes Api to pull information about latest dvd and movies, shows it in a table View. It also has a search functionality. 
+Project uses Yelp Api to pull data from search API async. It uses autolayout, the row height gets resized automatically. Used some table View tricks in the filter view. 
+
+Issue: 
+API does not provide with long/lat of the resturants for mapping. But gives the center long/lat and the span to create a map. Implemented that. 
 
 LICENSE to the repository: 
 
@@ -60,4 +64,4 @@ Gif Image
 
 ![Alt Text](RottenTomatoesDemo.gif)
 
-CodePath HW1 Rotten Tomatoes Due: June 10. 2014 10pm
+YelpIt  Due: June 17. 2014 10pm
