@@ -66,6 +66,8 @@ Gif Image
 
 ![Alt Text](YelpIt.gif)
 
+AutoLayout: 
+
 ![Alt Text](YelpIt-AutoLayout.gif)
 
 YelpIt  Due: June 17. 2014 10pm
