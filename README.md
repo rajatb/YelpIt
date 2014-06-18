@@ -64,8 +64,8 @@ Open-Source libraries used:
 Gif Image
 
 
-![Alt Text](Yelp.gif)
+![Alt Text](YelpIt.gif)
 
-![Alt Text](Yelp-AutoLayout.gif)
+![Alt Text](YelpIt-AutoLayout.gif)
 
 YelpIt  Due: June 17. 2014 10pm
